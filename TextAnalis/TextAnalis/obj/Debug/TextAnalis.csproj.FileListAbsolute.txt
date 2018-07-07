@@ -1,0 +1,7 @@
+C:\Users\Dima\source\repos\TextAnalis\TextAnalis\bin\Debug\TextAnalis.exe.config
+C:\Users\Dima\source\repos\TextAnalis\TextAnalis\bin\Debug\TextAnalis.exe
+C:\Users\Dima\source\repos\TextAnalis\TextAnalis\bin\Debug\TextAnalis.pdb
+C:\Users\Dima\source\repos\TextAnalis\TextAnalis\obj\Debug\TextAnalis.csprojResolveAssemblyReference.cache
+C:\Users\Dima\source\repos\TextAnalis\TextAnalis\obj\Debug\TextAnalis.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\TextAnalis\TextAnalis\obj\Debug\TextAnalis.exe
+C:\Users\Dima\source\repos\TextAnalis\TextAnalis\obj\Debug\TextAnalis.pdb

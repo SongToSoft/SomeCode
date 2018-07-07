@@ -1,0 +1,80 @@
+c:\users\dima\documents\visual studio 2015\Projects\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+c:\users\dima\documents\visual studio 2015\Projects\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase.mdf
+c:\users\dima\documents\visual studio 2015\Projects\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase_log.ldf
+c:\users\dima\documents\visual studio 2015\Projects\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe
+c:\users\dima\documents\visual studio 2015\Projects\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.pdb
+c:\users\dima\documents\visual studio 2015\Projects\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2015\Projects\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form1.resources
+c:\users\dima\documents\visual studio 2015\Projects\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+c:\users\dima\documents\visual studio 2015\Projects\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.Cache
+c:\users\dima\documents\visual studio 2015\Projects\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.exe
+c:\users\dima\documents\visual studio 2015\Projects\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.pdb
+C:\Users\User\Desktop\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+C:\Users\User\Desktop\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.exe
+C:\Users\User\Desktop\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.pdb
+C:\Users\User\Desktop\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase.mdf
+C:\Users\User\Desktop\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase_log.ldf
+C:\Users\User\Desktop\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe
+C:\Users\User\Desktop\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.pdb
+C:\Users\User\Desktop\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form1.resources
+C:\Users\User\Desktop\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+C:\Users\User\Desktop\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.Cache
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика Шепелов\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика Шепелов\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.exe
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика Шепелов\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.pdb
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика Шепелов\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csprojResolveAssemblyReference.cache
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика Шепелов\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form1.resources
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика Шепелов\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика Шепелов\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.Cache
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика Шепелов\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase.mdf
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика Шепелов\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase_log.ldf
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика Шепелов\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика Шепелов\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.pdb
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.exe
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.pdb
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase.mdf
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase_log.ldf
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.pdb
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csprojResolveAssemblyReference.cache
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form1.resources
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.Cache
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase.mdf
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase_log.ldf
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.pdb
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csprojResolveAssemblyReference.cache
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form1.resources
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.Cache
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.exe
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.pdb
+C:\Users\Zakhar\Desktop\Проект\LibraryApplication-master\LibraryApplication-master\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form2.resources
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.exe
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.pdb
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase.mdf
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase_log.ldf
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.pdb
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csprojResolveAssemblyReference.cache
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form1.resources
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form2.resources
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+C:\Users\dima\Desktop\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.Cache
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.exe
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.pdb
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase.mdf
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\bin\Debug\LibraryDatabase_log.ldf
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.pdb
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csprojResolveAssemblyReference.cache
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form1.resources
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form2.resources
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+C:\Users\dima\Documents\3 курс\Разработка программного обеспечения\Практика\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.Cache
