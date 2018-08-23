@@ -1,5 +1,6 @@
 # SomeCode
 SomeCode that i wrote
+
 Bash/ Bash curl scripts - скрипты для обращения через curl к репозиторию.
 
 C/ DerevoBinarnot - структура и методы обращения к бинарному дереву.
