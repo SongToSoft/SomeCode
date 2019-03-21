@@ -1,23 +1,23 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Значение узла дерева
+
 typedef int t_btree_key;
 
-//Структура узла
+
 typedef struct t_btree_node{
 struct t_btree_node *child[2];
 int diff;
 t_btree_key key;
 }t_btree_node;
 
-//Структура дерева
+
 typedef struct {
 t_btree_node *root;
 }t_btree;
 
 t_btree_node* balancirovka(t_btree_node* node);
 
-//Конструктор дерева
+
 t_btree* btree_new()
 {
     t_btree *tree;
@@ -25,7 +25,7 @@ t_btree* btree_new()
     tree->root=NULL;
     return tree;
 }
-//Деструктор дерева
+
 void btree_del (t_btree *tree)
 {
     void btree_del_node(t_btree_node *node)
@@ -44,7 +44,7 @@ void btree_del (t_btree *tree)
     }
     btree_del_node(tree->root);
 }
-//Добавление элементов в дерево
+
 int btree_add (t_btree *tree,t_btree_key key)
 {
     t_btree_node* btree_new_node()
@@ -71,7 +71,7 @@ int btree_add (t_btree *tree,t_btree_key key)
     tree->root=btree_add_node(tree->root);
 
 }
-//Вывод дерева на экран
+
 void btree_out (t_btree *tree)
 {
     void btree_out_node(t_btree_node *node)
@@ -91,7 +91,7 @@ void btree_out (t_btree *tree)
     btree_out_node(tree->root);
 }
 
-//Функции для работы с поворотами
+
 //1
 unsigned char diff(t_btree_node* node)
 {
@@ -123,7 +123,6 @@ void fixdiff(t_btree_node* node)
 }
 
 //4
-//Правый поворот
 t_btree_node* pravie(t_btree_node* node)
 {
     t_btree_node* q = node->child[0];
@@ -135,7 +134,6 @@ t_btree_node* pravie(t_btree_node* node)
 }
 
 //5
-// Левый поворот
 t_btree_node* levie(t_btree_node* node)
 {
     t_btree_node* p = node->child[1];
@@ -147,7 +145,6 @@ t_btree_node* levie(t_btree_node* node)
 }
 
 //6
-// балансировка узла
 t_btree_node* balancirovka(t_btree_node* node)
 {
     fixdiff(node);
