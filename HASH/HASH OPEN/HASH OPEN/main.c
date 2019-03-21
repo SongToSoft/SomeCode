@@ -19,8 +19,8 @@ typedef struct t_htbl_open_rec
 } t_htbl_open_rec;
 
 typedef struct{
-    size_t len;//длина
-    size_t num;//общее кол во записей
+    size_t len;
+    size_t num;
     t_htbl_open_rec *table;
     t_htbl_hash hash;
 }t_htbl_open;
@@ -41,7 +41,6 @@ t_htbl_open* htbl_open_new (size_t len,t_htbl_hash hash)
     return tbl;
 }
 
-//Удаление таблицы с открытой адрисацией
 void htbl_open_del(t_htbl_open *tbl)
 {
     int i;
@@ -49,7 +48,6 @@ void htbl_open_del(t_htbl_open *tbl)
     free(tbl);
 }
 
-//Есть ли элемент в таблице
 t_htbl_val *htbl_open_get_rec(t_htbl_key key, t_htbl_open *tbl)
 {
     int i=hash_func(key);
@@ -80,7 +78,6 @@ t_htbl_val *htbl_open_get_rec(t_htbl_key key, t_htbl_open *tbl)
     }
 }
 
-//Добавление элемента с открытой адрисацией
 t_htbl_val *htbl_open_add_rec(t_htbl_key key, t_htbl_open *tbl)
 {
     int i=hash_func(key);
@@ -109,7 +106,6 @@ t_htbl_val *htbl_open_add_rec(t_htbl_key key, t_htbl_open *tbl)
     return &((tbl->table[i]).val);
 }
 
-//Удаление элемента с открытой адрисацией
 void htbl_open_del_rec(t_htbl_key key, t_htbl_open *tbl)
 {
     int i=tbl->hash(key);
@@ -142,7 +138,7 @@ void htbl_open_del_rec(t_htbl_key key, t_htbl_open *tbl)
         }
     }
 }
-//Вывод таблицы
+
 void htbl_open_out(t_htbl_open *tbl)
 {
     FILE *fin;
