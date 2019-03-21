@@ -1,12 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Пара (ключ ; значение)
+
 typedef size_t t_htbl_key;
 typedef size_t t_htbl_val;
-//Тип функции
+
 typedef (*t_htbl_hash)(t_htbl_key);
 
-//Узел в списке, который в ячейке ассоциативного массива
 typedef struct t_htbl_list_rec
 {
     struct t_htbl_list_rec *next;
@@ -14,13 +13,11 @@ typedef struct t_htbl_list_rec
     t_htbl_val val;
 }t_htbl_list_rec;
 
-//Хэш - функция
 size_t hash_func(t_htbl_key key)
 {
     return key;
 }
 
-//Ассоциативный массив
 typedef struct
 {
     t_htbl_hash hash;
@@ -28,7 +25,6 @@ typedef struct
     t_htbl_list_rec **table;
 }t_htbl_list;
 
-//Конструктор для хэш таблицы с цепочками
 t_htbl_list *htbl_list_new (size_t len, t_htbl_hash hash)
 {
     size_t i;
@@ -45,7 +41,6 @@ t_htbl_list *htbl_list_new (size_t len, t_htbl_hash hash)
     return tbl;
 }
 
-//Деструктор для хэш таблицы с цепочками
 void htbl_list_del (t_htbl_list *tbl)
 {
     size_t i;
@@ -64,7 +59,6 @@ void htbl_list_del (t_htbl_list *tbl)
     free (tbl);
 }
 
-//Поиск элемента в хэш таблице с цепочками
 t_htbl_list_rec *htbl_list_get (t_htbl_list *tbl, t_htbl_key key)
 {
     size_t i;
@@ -83,8 +77,6 @@ t_htbl_list_rec *htbl_list_get (t_htbl_list *tbl, t_htbl_key key)
     return NULL;
 }
 
-
-//Вставка элемента в хэш таблицу с цепочками
 t_htbl_list_rec *htbl_list_add (t_htbl_list *tbl, t_htbl_key key)
 {
     t_htbl_list_rec *tblU;
@@ -100,7 +92,6 @@ t_htbl_list_rec *htbl_list_add (t_htbl_list *tbl, t_htbl_key key)
     }
 }
 
-//Удаление элемента из хэш таблицы с цепочками
 void htbl_del_elem(t_htbl_key key,t_htbl_list *tbl)
 {   int i=tbl->hash(key);
     t_htbl_list_rec *tblU, *tblR;
@@ -130,7 +121,6 @@ void htbl_del_elem(t_htbl_key key,t_htbl_list *tbl)
     }
 }
 
-//Ввод массива через файл
 void htbl_out (t_htbl_list *tbl, FILE *fout)
 {
     t_htbl_list_rec *tblU;
